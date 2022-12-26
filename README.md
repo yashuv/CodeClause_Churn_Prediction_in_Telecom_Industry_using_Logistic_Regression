@@ -1,8 +1,8 @@
 # CodeClause_Churn_Prediction_in_Telecom_Industry_using_Logistic_Regression
 
-This is the project or task I completed as a part of my Data Science internship at CodeClause.
+This is the first project I completed as a part of my Data Science internship at **CodeClause**.
 
-I performed the below mentioned things in this project:
+In this project, I accomplished the following: 
 
 ## 1. Definition of Task
 Churn, in the context of churn prediction, refers to the loss of customers or clients. Churn prediction is the process of identifying which customers are likely to leave a company or stop using a product or service in the near future.
@@ -10,10 +10,9 @@ Churn, in the context of churn prediction, refers to the loss of customers or cl
 Churn prediction is often used in industries such as telecommunications, banking, and subscription-based businesses, where retaining customers is important for long-term profitability. The goal of churn prediction is to identify customers who are at risk of churning and take steps to retain them, rather than losing them as customers and having to acquire new ones.
 
 ## 2. Importing necessary libraries 
-Importing library in a Python script allows you to use the functions, classes, and other objects defined in those libraries in your code.
-For example, you might import the numpy library to use its array manipulation and numerical computing functions, or you might import the pandas library to use its data manipulation and analysis tools.
+Importing library in a Python script allows you to use the functions, classes, and other objects defined in those libraries in your code and makes it easier to accomplish tasks.
 
-Importing libraries is an important part of writing Python code, as it allows you to take advantage of the functionality provided by these libraries and makes it easier to accomplish tasks in your scripts.
+For example, you might import the `numpy` library to use its array manipulation and numerical computing functions, or you might import the pandas library to use its data manipulation and analysis tools.
 
 ## 3. EDA 
 It is a valuable tool for understanding and gaining insights from data. It can also be used to generate ideas for further research or to communicate findings to others.and is an important step in the data science process.
